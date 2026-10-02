@@ -56,9 +56,3 @@ The first run will download `all-MiniLM-L6-v2`. If that package is missing, rank
 - `src/builder.py` — PDF/DOCX resume export
 - `src/db.py` — SQLite users, analyses, jobs, candidates
 - `data/` — skill dictionary and role taxonomy
-
-## Group roles (blueprint)
-
-- Pushkar Tyagi — student module, parsing, NLP, suggestions, builder
-- Maksud Ansari — company module, ranking, dataset/skill dictionary, SQLite, export
->>>>>>> ec04f8d (Initial commit)
