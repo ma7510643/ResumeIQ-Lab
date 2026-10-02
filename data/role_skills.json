@@ -1,0 +1,18 @@
+{
+  "Data Analyst": ["sql", "excel", "python", "tableau", "power bi", "statistics", "data analysis", "pandas", "matplotlib", "communication"],
+  "Data Scientist": ["python", "machine learning", "pandas", "numpy", "scikit-learn", "statistics", "sql", "deep learning", "matplotlib", "feature engineering"],
+  "Machine Learning Engineer": ["python", "machine learning", "scikit-learn", "tensorflow", "pytorch", "docker", "sql", "aws", "mlops", "git"],
+  "Python Developer": ["python", "django", "flask", "fastapi", "sql", "rest api", "git", "docker", "postgresql", "oops"],
+  "Java Developer": ["java", "spring boot", "sql", "rest api", "hibernate", "git", "microservices", "maven", "junit", "oops"],
+  "Frontend Developer": ["javascript", "react", "html", "css", "typescript", "git", "rest api", "redux", "tailwind", "ui/ux"],
+  "Backend Developer": ["python", "java", "node.js", "sql", "rest api", "docker", "postgresql", "microservices", "git", "linux"],
+  "Full Stack Developer": ["javascript", "react", "node.js", "sql", "html", "css", "git", "rest api", "python", "docker"],
+  "Software Engineer": ["python", "java", "dsa", "sql", "git", "oops", "rest api", "linux", "algorithms", "communication"],
+  "DevOps Engineer": ["linux", "docker", "kubernetes", "ci/cd", "aws", "git", "jenkins", "python", "bash", "terraform"],
+  "Android Developer": ["kotlin", "java", "android", "git", "rest api", "sqlite", "firebase", "xml", "oops"],
+  "UI/UX Designer": ["figma", "ui/ux", "html", "css", "communication", "prototype", "wireframe"],
+  "Business Analyst": ["excel", "sql", "communication", "power bi", "requirement gathering", "agile", "presentation"],
+  "Cloud Engineer": ["aws", "azure", "linux", "docker", "python", "terraform", "networking", "ci/cd"],
+  "QA Engineer": ["selenium", "python", "java", "jira", "test cases", "api testing", "postman", "sql"],
+  "NLP Engineer": ["python", "natural language processing", "spacy", "nltk", "transformers", "machine learning", "deep learning", "bert"]
+}

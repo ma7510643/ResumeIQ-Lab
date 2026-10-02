@@ -1,0 +1,24 @@
+MAKSUD ANSARI
+Email: maksud@example.com | Phone: 9876543210 | Location: India
+
+SUMMARY
+B.Tech CSE (AI/ML) student with internship experience in Python, SQL and machine learning. Looking for a Data Analyst / Python Developer role.
+
+SKILLS
+Python, SQL, Pandas, Machine Learning, Scikit-learn, Excel, Power BI, Git, Flask, NLP, Streamlit
+
+EDUCATION
+B.Tech Computer Science Engineering (AI/ML), 5th Semester
+
+EXPERIENCE
+- Developed a resume screening prototype using Python and scikit-learn that ranked 40 sample CVs.
+- Worked on a dashboard in Power BI for internship reporting.
+- Responsible for cleaning a 2,000-row dataset and improving data quality by 18%.
+
+PROJECTS
+- ResumeIQ: AI resume analyzer and ranking platform with TF-IDF matching.
+- Built a sentiment analysis notebook using NLTK on 5,000 reviews (82% accuracy).
+- Implemented a FastAPI service to extract skills from unstructured text.
+
+CERTIFICATIONS
+Google Data Analytics (in progress)
